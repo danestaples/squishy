@@ -1,4 +1,1 @@
-Greetings GitHub Users!
-=======================
-
-Personal overlay
+Overlay for funtoo/gentoo
