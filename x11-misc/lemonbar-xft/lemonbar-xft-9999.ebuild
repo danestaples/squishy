@@ -9,12 +9,13 @@ inherit git-r3
 DESCRIPTION="Lemonbar with xft patch"
 HOMEPAGE="https://github.com/LemonBoy/bar"
 SRC_URI=""
-EGIT_REPO_URI="https://github.com/krypt-n/bar.git#branch=xft-port"
+EGIT_BRANCH="xft-port"
+EGIT_REPO_URI="https://github.com/krypt-n/bar.git"
 
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-IUSE="xft"
+IUSE=""
 
 DEPEND="
 x11-libs/libxcb
