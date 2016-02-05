@@ -1,1 +1,0 @@
-Overlay for funtoo/gentoo
